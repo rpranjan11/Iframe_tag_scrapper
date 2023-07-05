@@ -1,0 +1,15 @@
+{
+	"manifest_version": 2,
+
+	"name": "Iframe tags Scrapper",
+	"description": "This extension will list all the iframe tags in a webpage",
+	"version": "1.0.1",
+
+	"browser_action": {
+		"default_icon": "icon.png",
+		"default_popup": "popup.html"
+	},
+	"permissions": [
+	"activeTab"
+	]
+}
